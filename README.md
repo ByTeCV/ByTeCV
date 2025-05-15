@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1><b>Hi there 👋 I'm Sumesh</b></h1><br><br>
 <h4>🚀 <b>Frontend Developer in the Making</b></h4>
 <br>I'm currently diving deep into the world of Frontend Development, learning how to build clean, interactive, and modern web applications. My journey includes mastering:
