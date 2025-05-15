@@ -6,7 +6,7 @@
 <li>⚙️ DOM Manipulation & Web APIs</li>
 <li>🎨 UI/UX principles and responsive design</li>
 <li>⚛️ Frameworks like Angular (in progress)</li>
-<br><br><br><h4>📫
+<br><br>
 
 
 ## 🌐 Socials:
