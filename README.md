@@ -4,7 +4,7 @@
 <li>🧠 HTML, CSS, JavaScript</li>
 <li>⚙️ DOM Manipulation & Web APIs</li>
 <li>🎨 UI/UX principles and responsive design</li>
-<li>⚛️ Frameworks like Angular (in progress)</li>
+<li>⚛️ Frameworks like React (in progress)</li>
 <br><br>
 
 
